@@ -144,7 +144,6 @@ Thanks to everyone who helps develop the project!
 - [@tanukis0408](https://github.com/tanukis0408) - updated and fixed pkg, other fixes
 - [@wqreloxz](https://github.com/wqreloxz) — service scripts, package manager, init improvements.
 - [@TOPDATOP](https://github.com/topdatop01) — wireless support (iwd, dhcpcd).
-- [@nevvixsz](https://github.com/nevvixsz) - devloper installer
 - [@thebiggestlarp](https://github.com/thebiggestlarp) - developer rezzfetch
 
 Author contact:
